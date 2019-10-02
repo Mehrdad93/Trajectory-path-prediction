@@ -99,7 +99,7 @@ if False:
     from tensorflow.python.keras.initializers import RandomUniform
 
     # Maybe use lower init-ranges.
-    init = RandomUniform(minval=-0.02, maxval=0.02)  #????
+    init = RandomUniform(minval=-0.02, maxval=0.02)  
 
     model.add(Dense(num_y_signals,
                     activation='linear',
@@ -254,3 +254,5 @@ def plot_comparison(start_idx, length=70, train=True):
 
 # Plot
 plot_comparison(start_idx=0, length=80, train=False)
+
+
