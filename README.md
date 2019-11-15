@@ -5,3 +5,6 @@ The presented work demonstrates the training of recurrent neural networks (RNNs)
 
 More details can be found in the following file:
 > Trajectory_prediction_RNN.pdf
+
+Dropbox link to the dataset:
+https://www.dropbox.com/s/2ivu2ka9s1pujg8/input_trj.csv?dl=0
