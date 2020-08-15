@@ -9,4 +9,5 @@ More details can be found in the following file:
 
 ### Contributors
 > Mehrdad Mokhtari;
-> ‪Mohammad J. Eslamibidgoli‬
+> ‪Mohammad J. Eslamibidgoli‬;
+> Michael H. Eikerling
