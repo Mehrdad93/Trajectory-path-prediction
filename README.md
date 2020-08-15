@@ -1,4 +1,4 @@
-## Trajectory Path Prediction
+## Trajectory Path Prediction [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Predicting trajectory paths of novel compounds employing RNN-based models.
 
