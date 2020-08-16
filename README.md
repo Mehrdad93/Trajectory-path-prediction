@@ -7,10 +7,10 @@ The presented work demonstrates the training of recurrent neural networks (RNNs)
 ### Results
 
 *Predictions of the trajectory of the an atom in the studied compound and total potential energy by (a) GRU and (b) LSTM compared to AIMD baseline:*
-<img src="https://raw.githubusercontent.com/Mehrdad93/mehrdad93.github.io/master/images/predict.png">
+<img src="https://raw.githubusercontent.com/Mehrdad93/mehrdad93.github.io/master/images/predict.png" width="200" height="400" />
 
 *Density plot of coordinates of (a) all atoms (b) randomly chosen atom i, over the AIMD simulation run:*
-<img src="https://raw.githubusercontent.com/Mehrdad93/mehrdad93.github.io/master/images/Density.png">
+<img src="https://raw.githubusercontent.com/Mehrdad93/mehrdad93.github.io/master/images/Density.png" width="200" height="400" />
 
 ### Contributors
 > Mehrdad Mokhtari;
