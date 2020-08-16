@@ -11,7 +11,7 @@ The presented work demonstrates the training of recurrent neural networks (RNNs)
 <img src="https://raw.githubusercontent.com/Mehrdad93/mehrdad93.github.io/master/images/predict.png" width="700" height="300"/>
 
 *Density plot of coordinates of (a) all atoms (b) randomly chosen atom i, over the AIMD simulation run:*
-<img src="https://raw.githubusercontent.com/Mehrdad93/mehrdad93.github.io/master/images/Density.png" width="600" height="500" />
+<img src="https://raw.githubusercontent.com/Mehrdad93/mehrdad93.github.io/master/images/Density.png" width="600" height="300" />
 
 ### Contributors
 > Mehrdad Mokhtari;
